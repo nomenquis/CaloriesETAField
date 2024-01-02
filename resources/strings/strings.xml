@@ -1,3 +1,10 @@
 <strings>
-    <string id="AppName">CaloriesETAField</string>
+    <string id="AppName">Calories ETA Field</string>
+    <string id="targetCalories">Target Calories</string>
+    <string id="targetCaloriesError">Error</string>
+    <string id="Label1">Time to </string>
+    <string id="Label2"> kcal</string>
+    <string id="no_eta_string">no eta</string>
+    <string id="target_reached_string">target reached</string>
+    
 </strings>
